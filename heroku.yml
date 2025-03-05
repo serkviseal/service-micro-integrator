@@ -1,0 +1,6 @@
+build:
+  docker:
+    web: Dockerfile
+
+run:
+  web: /home/wso2carbon/docker-entrypoint.sh
